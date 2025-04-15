@@ -1,0 +1,7 @@
+🚀 Shortest Path Report
+========================
+From: Delhi
+To: Bangalore
+
+Path: Delhi → Jaipur → Ahmedabad → Mumbai → Pune → Hyderabad → Bangalore
+Distance: 2740.00 units
